@@ -1,0 +1,24 @@
+textarea{
+
+        width: 500px;
+        height: 500px;
+        resize: none;
+        border: purple solid 4px;
+
+}
+
+.header{
+    width: 600px;
+    height: 600px;
+    border: palegreen solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+body{
+
+    background-color: aquamarine;
+}
