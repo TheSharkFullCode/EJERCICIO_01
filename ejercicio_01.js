@@ -35,6 +35,7 @@ function diname(persona){
 
 }
 diname("oscar");
+
 // ejemplo_004
 // Escribe una función que reciba dos parámetros, el nombre y el apellido, y devuelva el nombre completo.
 
@@ -48,7 +49,7 @@ console.log(result);
 // Escribe una función que acepte la medida de los dos lados de un rectángulo y devuelva el área de dicho rectángulo. Si no se le pasa ningún parámetro, los lados deberán ser, por defecto, 5 y 3.
 
 function medida(largo = 5, ancho = 3){
-    let area;
+    // let area;
     return  largo * ancho;
 
 }
